@@ -434,7 +434,7 @@ Mencionamos en la [parte anterior](/es/part2/alterando_datos_en_el_servidor#rest
 
 Una convención es crear la dirección única para los recursos combinando el nombre del tipo de recurso con el identificador único del recurso.
 
-Supongamos que la URL raíz de nuestro servicio es<i>www.example.com/api</i>.
+Supongamos que la URL raíz de nuestro servicio es <i>www.example.com/api</i>.
 
 Si definimos el tipo de recurso de notas a ser <i>note</i>, entonces la dirección de un recurso de nota con el identificador 10, tiene la dirección única <i>www.example.com/api/notes/10</i>.
 
